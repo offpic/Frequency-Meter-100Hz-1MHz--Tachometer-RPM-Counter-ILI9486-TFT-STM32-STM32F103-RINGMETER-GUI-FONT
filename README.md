@@ -1,4 +1,4 @@
-# Frequency-Meter-100Hz-1MHz- Tachometer (RPM Counter) ILI9486-TFT-STM32-STM32F103-RINGMETER-GUI-FONT
+# Frequency-Meter-100Hz-1MHz- Tachometer (RPM Counter) ILI9486-TFT-STM32-STM32F103-RINGMETER-GUI-FONT INPUT CAPTURE
 Frequency Meter 100Hz~1MHz ILI9486 TFT STM32 STM32F103 RINGMETER GUI FONT
 
 https://www.youtube.com/watch?v=OfIZsfgGEKg
